@@ -1,5 +1,5 @@
 text = ""
 
-newText = text.gsub("," , "\n")
+newText = text.gsub("\n" , "-")
 
 puts newText
