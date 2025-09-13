@@ -1,4 +1,4 @@
-text = ""
+text = "" #TextoDentroDasAspas
 
 newText = text.gsub("\n" , "-")
 
